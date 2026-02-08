@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Employee",
+        "name": "Salem",
+        "emp_id": 101,
+        "salary": 6767.0
+    },
+    {
+        "type": "Employee",
+        "name": "Ali",
+        "emp_id": 102,
+        "salary": 7000.0
+    },
+    {
+        "type": "Employee",
+        "name": "Sara",
+        "emp_id": 103,
+        "salary": 9000.0
+    },
+    {
+        "type": "Manager",
+        "name": "toni",
+        "emp_id": 201,
+        "salary": 10000.0,
+        "bonus": 2500
+    },
+    {
+        "type": "Manager",
+        "name": "talal",
+        "emp_id": 202,
+        "salary": 990.0,
+        "bonus": 10
+    }
+]
